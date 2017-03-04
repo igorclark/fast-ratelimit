@@ -39,7 +39,7 @@
   },
 
   "dependencies": {
-    "hashtable": "2.0.1",
+    "hashtable": "git+https://git@github.com/igorclark/node-hashtable.git",
     "es6-promise-polyfill": "1.2.0"
   },
 
